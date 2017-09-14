@@ -1,4 +1,4 @@
-#Welcome to my first public repository
+# Welcome to my first public repository
 
 So far I've learned how to
 1. Get setup with Git and Github
@@ -11,5 +11,4 @@ So far I've learned how to
 	2.Github's pull requests
 5. Creating README files
 
-[I learned all this from Code Institute!] (http://codeinstitute.net)
-[It's goooooooood :)]
+[I learned all this from Code Institute!](http://codeinstitute.net)
